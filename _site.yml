@@ -3,6 +3,7 @@ title: "Hathaway's Blog"
 description: |
   Hathaway's Blog
 output_dir: "docs"
+
 navbar:
   right:
     - text: "Home"

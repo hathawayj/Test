@@ -1,0 +1,14 @@
+---
+title: "Yes I am doing a senior project."
+date: 04-26-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Wow I am doing this.
